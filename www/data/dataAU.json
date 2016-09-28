@@ -1,0 +1,123 @@
+{
+  "weight": {
+    "gram": [
+      {
+        "iName": "Flour",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "Cocoa",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "Cornflour",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "Salt",
+        "iCup": 250,
+        "iSpoon": 20,
+        "iTeaspoon": 5
+      },
+      {
+        "iName": "White Sugar",
+        "iCup": 225,
+        "iSpoon": 18,
+        "iTeaspoon": 4.5
+      },
+      {
+        "iName": "Brown Sugar",
+        "iCup": 200,
+        "iSpoon": 16,
+        "iTeaspoon": 4
+      },
+      {
+        "iName": "SugarPowder",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "BakingPowder",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "BakingSoda",
+        "iCup": 150,
+        "iSpoon": 12,
+        "iTeaspoon": 3
+      },
+      {
+        "iName": "Honey!",
+        "iCup": 350,
+        "iSpoon": 28,
+        "iTeaspoon": 7
+      },
+      {
+        "iName": "Butter!",
+        "iCup": 250,
+        "iSpoon": 20,
+        "iTeaspoon": 5
+      }
+    ],
+    "factors": [
+      {
+        "fName": "gram",
+        "fValue": 1
+      },
+      {
+        "fName": "KG",
+        "fValue": 1000
+      },
+      {
+        "fName": "ounce",
+        "fValue": 28.3495231
+      }
+    ]
+  },
+  "volume": {
+    "ml": [
+      {
+        "iName": "All",
+        "iCup": 250,
+        "iSpoon": 20,
+        "iTeaspoon": 5
+      }
+    ],
+    "factors": [
+      {
+        "fName": "ml",
+        "fValue": 1
+      },
+      {
+        "fName": "Liter",
+        "fValue": 1000
+      },
+      {
+        "fName": "fl oz US",
+        "fValue": 29.57
+      },
+      {
+        "fName": "fl oz UK",
+        "fValue": 28.41
+      }
+    ]
+  },
+  "temperature": [
+    {
+      "iName": "Fahrenheit"
+    },
+    {
+      "iName": "Celsius"
+    }
+  ]
+}
+

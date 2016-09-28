@@ -1,0 +1,123 @@
+{
+  "weight": {
+    "gram": [
+      {
+        "iName": "Flour, all-purpose, unsifted",
+        "iCup": 126.7,
+        "iSpoon": 7.92,
+        "iTeaspoon": 2.64
+      },
+      {
+        "iName": "Flour, all-purpose, sifted",
+        "iCup": 100.8,
+        "iSpoon": 6.3,
+        "iTeaspoon": 2.1
+      },
+      {
+        "iName": "Cocoa",
+        "iCup": 112.8,
+        "iSpoon": 7.05,
+        "iTeaspoon": 2.35
+      },
+      {
+        "iName": "Cornflour",
+        "iCup": 140,
+        "iSpoon": 10,
+        "iTeaspoon": -1
+      },
+      {
+        "iName": "Salt",
+        "iCup": 244.8,
+        "iSpoon": 15.3,
+        "iTeaspoon": 5.1
+      },
+      {
+        "iName": "White Sugar",
+        "iCup": 194.5,
+        "iSpoon": 12,
+        "iTeaspoon": 4
+      },
+      {
+        "iName": "Brown Sugar",
+        "iCup": 182.5,
+        "iSpoon": 11.5,
+        "iTeaspoon": 3.8
+      },
+      {
+        "iName": "Sugar Powder",
+        "iCup": 132,
+        "iSpoon": 8.25,
+        "iTeaspoon": 2.75
+      },
+      {
+        "iName": "Baking Powder",
+        "iCup": 182,
+        "iSpoon": 11.4,
+        "iTeaspoon": 3.8
+      },
+      {
+        "iName": "Baking Soda",
+        "iCup": 209,
+        "iSpoon": 13,
+        "iTeaspoon": 4.35
+      },
+      {
+        "iName": "Honey",
+        "iCup": 346,
+        "iSpoon": 21.5,
+        "iTeaspoon": 7
+      },
+      {
+        "iName": "Butter",
+        "iCup": 233,
+        "iSpoon": 14.5,
+        "iTeaspoon": 4.85
+      }
+    ],
+    "factors": [
+      {"fName" :"gram",
+        "fValue" : 1},
+      {"fName" :"KG",
+        "fValue" : 1000},
+      {"fName" : "ounce",
+        "fValue": 28.3495231}
+    ]
+  },
+  "volume": {
+  "ml": [
+    {
+      "iName": "All",
+      "iCup": 240,
+      "iSpoon": 15,
+      "iTeaspoon": 5
+    }
+  ],
+  "factors": [
+    {
+      "fName": "ml",
+      "fValue": 1
+    },
+    {
+      "fName": "Liter",
+      "fValue": 1000
+    },
+    {
+      "fName": "fl oz US",
+      "fValue": 29.57
+    },
+    {
+      "fName": "fl oz UK",
+      "fValue": 28.41
+    }
+  ]
+},
+  "temperature": [
+    {
+      "iName": "Fahrenheit"
+    },
+    {
+      "iName": "Celsius"
+    }
+  ]
+}
+
